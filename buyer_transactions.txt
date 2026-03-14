@@ -1,0 +1,4 @@
+Buyer: Rizon, Contact: N/A, Purchased Fish: Rupchada (Quantity: 4), Date: 2025-04-18
+Buyer: Salman, Contact: N/A, Purchased Fish: Rupchada (Quantity: 4), Date: 2025-04-19
+Buyer: Salman Ali, Contact: N/A, Purchased Fish: Rupcahda (Quantity: 4), Date: 2025-04-19
+Buyer: salman, Contact: N/A, Purchased Fish: hilsha (Quantity: 2), Date: 2025-04-20

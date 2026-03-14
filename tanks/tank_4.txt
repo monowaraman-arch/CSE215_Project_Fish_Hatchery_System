@@ -1,0 +1,5 @@
+4,12
+hilsha,12,1.5
+Rupchada,12,4.55
+Hilsha,7,2.6
+Pungas,10,3.1
