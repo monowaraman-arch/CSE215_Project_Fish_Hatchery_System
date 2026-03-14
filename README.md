@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Fish Hatchery System
 
 Console-based Java application for managing fish tanks, supplies, maintenance records, feeding logs, and buyer transactions.
@@ -123,3 +124,6 @@ If these files are deleted, the related data will be recreated as new records du
 - This is a console application, not a GUI application.
 - There are currently no automated tests under `test/`.
 - Login credentials are static and intended for simple local use.
+=======
+# CSE215_Project_Fish_Hatchery_System
+>>>>>>> 4329cefc3211cf2f7d57c52500f974156c39147e
